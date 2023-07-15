@@ -1,0 +1,4 @@
+﻿  Kursov proektPE.cpp
+C:\Users\Georgi\source\repos\Kursov proektPE\Kursov proektPE\Kursov proektPE.cpp(337,17): warning C4101: 'car_id': unreferenced local variable
+C:\Users\Georgi\source\repos\Kursov proektPE\Kursov proektPE\Kursov proektPE.cpp(337,25): warning C4101: 'route_id': unreferenced local variable
+  Kursov proektPE.vcxproj -> C:\Users\Georgi\source\repos\Kursov proektPE\x64\Debug\Kursov proektPE.exe
